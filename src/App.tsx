@@ -24,7 +24,7 @@ function AppShell() {
 
   return <div className="flex min-h-screen bg-stone-50 font-sans text-stone-800">
     <aside className="hidden w-64 shrink-0 flex-col bg-stone-900 p-6 text-stone-200 md:flex">
-      <button type="button" onClick={() => setView("overview")} className="mb-10 flex items-center gap-2 text-left text-2xl font-bold text-emerald-400"><Sprout />AgriTracker</button>
+      <button type="button" onClick={() => setView("overview")} className="mb-10 flex items-center gap-2 text-left text-2xl font-bold text-emerald-400"><Sprout />Maize Well</button>
       <nav className="space-y-2">
         <NavButton active={view === "overview"} icon={<LayoutDashboard size={19} />} onClick={() => setView("overview")}>All Fields / Overview</NavButton>
         <NavButton active={view === "my-fields"} icon={<Map size={19} />} onClick={() => setView("my-fields")}>My Fields</NavButton>
