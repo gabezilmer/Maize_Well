@@ -108,3 +108,9 @@ Agronomic Intelligence
  Goal-driven agronomy — grower sets a target (e.g. "increase topsoil organic matter") and the platform generates a plan to reach it
  Expanded IPM (Integrated Pest Management) tooling layered on the existing diagnostics engine
  Monoculture vs. polyculture field configuration — support diversified / intercropped field layouts, not just single-crop fields
+
+<img width="1442" height="855" alt="Maizewellstep4" src="https://github.com/user-attachments/assets/1e512325-0031-4a46-99da-dd06b939c5fa" />
+
+<img width="1417" height="856" alt="Screenshot 2026-09-15 095427" src="https://github.com/user-attachments/assets/611cd593-51ea-4cd6-91cd-0fb46df5e0f1" />
+
+<img width="1427" height="843" alt="Screenshot 2026-09-15 095735" src="https://github.com/user-attachments/assets/aefd1587-f6a3-4080-8c11-38d4901e64a5" />
