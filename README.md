@@ -7,7 +7,7 @@ Precision Agriculture & Spatial Soil Modeling Platform
 
 Maize Well is a full-stack precision agriculture application that turns a hand-drawn field boundary into an automated, data-grounded agronomic report. Draw a polygon on a satellite map and the platform pulls live soil, terrain, and climate data for that exact footprint, models topsoil characteristics with a trained regression model, and turns the result into acreage, yield, and revenue estimates a grower can act on.
 
-Live demo: [![DEMO](https://maize-well-p1g8.bolt.host Case study)] : a 93.44-acre soybean field, mapped end-to-end from boundary → soil profile → $60,736 projected revenue.
+Live demo: [![DEMO](https://maize-well-p1g8.bolt.host)] Case study: a 93.44-acre soybean field, mapped end-to-end from boundary → soil profile → $60,736 projected revenue.
 
 ✨ Core Features
 Field-Centric Workspace — Draw a custom field boundary on an interactive map and get an exact, geodesic acreage calculation instantly.
