@@ -130,11 +130,9 @@ export default function FarmDashboard({ showToast, onFieldsChanged }) {
           <div className="lg:col-span-2 bg-white p-6 rounded-xl shadow-sm border border-stone-200">
             <h3 className="text-xl font-semibold mb-4">Field Boundary Map</h3>
             {loading ? (
-              <p className="text-stone-500">Loading fields from Supabase...</p>
-            ) : farms.length > 0 ? (
-              <p className="text-emerald-600 font-medium">Successfully loaded {farms.length} farm(s) from database!</p>
+              <p className="text-stone-500">Loading fields...</p>
             ) : (
-              <p className="text-amber-600">No fields found. We will add a drawing tool here later.</p>
+              <p className="text-stone-500 text-sm">Draw a polygon on the map to create a new field boundary.</p>
             )}
             <MapContainer
               center={[45.0794, -93.9876]}
